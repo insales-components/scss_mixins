@@ -1,0 +1,13 @@
+{
+  "name": "scss_mixins",
+  "version": "1.0.0",
+  "description": "SCSS mixins",
+  "author": "LiquidHub.ru",
+  "type": "scss_mixins",
+  "homepage": "https://github.com/insales-components/scss_mixins",
+  "props": {
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {}
+}
